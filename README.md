@@ -1,6 +1,6 @@
 # Pertemuan 07 Fungsi Python
 Nama: Siti Nurhasanah  
-NIM: 123456789  
+NIM: 2225250073
 Kelas: 3B
 
 ## Tujuan
