@@ -1,7 +1,7 @@
 # Pertemuan 07 Fungsi Python
 Nama: Siti Nurhasanah  
 NIM: 123456789  
-Kelas: Pendidikan Matematika B, Semester 3  
+Kelas: 3B
 
 ## Tujuan
 Menggunakan fungsi, parameter, return value, dan scope untuk membuat program modular.
